@@ -7,7 +7,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:Seitola/Portfolio.git main:gh-pages
+git push -f git@github.com:Seitola/Portfolio.git main:main
 
 git push -u origin main
 
